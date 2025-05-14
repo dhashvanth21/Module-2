@@ -1,4 +1,3 @@
-
 # Lambda Function in Python: Addition of Two Numbers
 
 ## 🎯 Aim
@@ -26,3 +25,4 @@ print(f(i, j,z))
 
 ## Result
 Thus,the Python program that defines a lambda function which takes two arguments a , b and c, and returns their sum is created successfully.
+
